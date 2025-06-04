@@ -51,10 +51,10 @@
     "postcss"
   ],
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#af4d71",
-    "titleBar.border": "#af4d71",
-    "titleBar.activeForeground": "#fcdfea",
-    "titleBar.inactiveBackground": "#bb6886",
-    "titleBar.inactiveForeground": "#fce4ed"
-  }
+    "titleBar.activeBackground": "#6C5B7B",
+    "titleBar.border": "#6C5B7B",
+    "titleBar.activeForeground": "#F67280",
+    "titleBar.inactiveBackground": "#82748f",
+    "titleBar.inactiveForeground": "#f78793"
+  },
 }
