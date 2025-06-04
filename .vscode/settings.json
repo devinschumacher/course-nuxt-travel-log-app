@@ -9,6 +9,9 @@
     "source.organizeImports": "never"
   },
 
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   // Silent the stylistic rules in you IDE, but still auto fix them
   "eslint.rules.customizations": [
     { "rule": "style/*", "severity": "off", "fixable": true },
@@ -53,5 +56,5 @@
     "titleBar.activeForeground": "#F67280",
     "titleBar.inactiveBackground": "#82748f",
     "titleBar.inactiveForeground": "#f78793"
-  },
+  }
 }
